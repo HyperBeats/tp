@@ -1,0 +1,27 @@
+
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #bec1d3;
+    margin: 0;
+    padding: 0;
+  }
+  
+ .nav__links {
+    list-style: none;
+    display: flex;
+
+  }
+  
+  .nav__links li {
+    padding: 0px 20px;
+  }
+  
+
+ 
+  .login {
+    padding: 9px 25px;
+  }
